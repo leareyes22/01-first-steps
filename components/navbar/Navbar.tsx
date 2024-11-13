@@ -4,7 +4,6 @@ import {
   TagIcon,
   PersonIcon,
 } from "@primer/octicons-react";
-import Link from "next/link";
 import { v7 } from "uuid";
 import { ActiveLink } from "..";
 
